@@ -1,0 +1,10 @@
+node_modules/
+.insforge/
+.env
+.env.local
+.env.production
+.agents/
+.agent/
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
